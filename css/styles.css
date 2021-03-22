@@ -1,0 +1,151 @@
+body {
+    background-color: #f7f5ef;
+    margin-top: 0;
+    margin-left: 0;
+    margin-right: 0;
+    
+    text-align: center;
+}
+span {
+    text-decoration: underline;
+    color: #b0e6ce;
+}
+h1 {
+    font-family:'Berkshire Swash', cursive;
+    margin-top: 0;
+    margin-bottom: 0;
+    color: #66BFBF;
+    
+}
+h2{
+    font-family:'Berkshire Swash', cursive;
+    color: #6fb394 ;
+}
+h3{
+    color: #6fb394 ;
+    font-size: 25px;
+    font-family:'Berkshire Swash', cursive;
+    
+}
+h4{
+    color:  white;
+    font-family:'Berkshire Swash', cursive;
+
+}
+p{
+    text-align: left;
+    font-family: 'Merriweather', serif;
+    font-size: 20px;
+    color: #40514e;
+    line-height: 1.2;
+    font-weight: bold;
+}
+a{
+    text-decoration: none;
+    margin: 0 10px 0;
+    color: #42775f;
+    font-family:'Berkshire Swash', cursive;
+    
+
+
+}
+a:hover{
+    color: #18251f
+}
+.top {
+    position: relative;
+    background-color: #EAF6F6;
+    /*color: #caf7e3;*/
+    height: 650px;
+    padding-top: 50px;
+    margin-bottom: 30px;
+}
+    
+
+
+.middle {
+    text-align: center;
+    background-color: #f7f5ef;
+    /*font-family: 'Sacramento', cursive;*/
+    /* color: #e4bad4;*/
+}
+
+.center {
+    text-align: center;
+    width: 500px;
+    margin: auto;
+}
+
+
+
+.skill-row{
+    text-align: left;
+    width: 50%;
+    margin: auto;
+   
+}
+    
+    
+
+.bot {
+    background-color: #66bfbf;
+    padding-bottom: 10px;
+    margin-bottom: 0px;
+}
+
+.image1 {
+    position: relative;
+    left: 500px;
+    
+    
+}
+.imagemountain {
+   /* position: absolute; */
+    width: 1000px;
+    height: 300px;
+    margin-top: 100px;
+   /* left: 150px;
+    top: 200px; */
+    
+    
+}
+.image2 {
+    position: absolute;
+    left: 50px;
+    
+}
+.image3 {
+    position: absolute;
+    right: 100px;
+    top: 300px;
+    
+}
+.spanclass{
+    text-decoration: underline;
+    color: #c28cad;
+}
+.hrclass{
+    border-style: dotted none none;
+    width: 50%;
+    border-width: 8px;
+    color: #49756191;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+li {
+    font-size: 50px;
+}
+.font {
+    font-size: 100px;
+}
+.floatleft {
+    width : 30%;
+    float : left;
+    border-radius: 50%;
+}
+.floatright {
+    width : 30%;
+    float : right;
+    border-radius: 50%;
+}
